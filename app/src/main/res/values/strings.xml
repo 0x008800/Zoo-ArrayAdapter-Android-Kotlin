@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zoo</string>
+
+    <array name="animals">
+        <item>Birds</item>
+        <item>Fishes</item>
+        <item>Reptiles</item>
+    </array>
+
+    <array name="Birds">
+        <item>Flamingo</item>
+        <item>Tufted puffin</item>
+        <item>Hoatzin</item>
+    </array>
+
+    <array name="Fishes">
+        <item>Flying fish</item>
+        <item>Blobfish</item>
+        <item>Red lionfish</item>
+    </array>
+
+    <array name="Reptiles">
+        <item>Crocodile</item>
+        <item>St. Lucia Racer Snake</item>
+        <item>Diamondback Terrapin Turtle</item>
+    </array>
+</resources>
